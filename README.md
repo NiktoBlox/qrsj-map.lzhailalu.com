@@ -5,7 +5,7 @@
 ## 軟體資訊
 * 軟體開發著：[星川官方網站](https://lzhailalu.com) 授權
 * 支援作業系統：只有Windows 
-* 軟體大小、軟體版本、軟體更新...等請見發行版
+* 軟體大小、軟體版本、軟體更新...等請見[Releases](https://github.com/NiktoBlox/qrsj-map.lzhailalu.com/releases)
 ## 軟體圖片
 正在載入中...
 
